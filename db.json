@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "id": 1,
+      "title": "Cricket"
+    },
+    {
+      "title": "New Stream",
+      "description": "This is a test stream",
+      "id": 2
+    },
+    {
+      "title": "xaxas",
+      "description": "xasxasxa",
+      "id": 3
+    },
+    {
+      "title": "I created this stream",
+      "description": "This stream was created by me. yes me",
+      "id": 4
+    },
+    {
+      "title": "one",
+      "description": "ajsknxaskjnxa",
+      "userId": "107115491061124141788",
+      "id": 5
+    }
+  ]
+}
